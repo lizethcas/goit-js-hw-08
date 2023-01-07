@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/lizethcas/goit-js-hw-08",
+  "homepage": "https://lizethcas.github.io/goit-js-hw-08/",
   "name": "goit-js-hw-08",
   "version": "1.0.0",
   "description": "homework",
@@ -7,8 +7,9 @@
   "scripts": {
     "dev": "parcel src/index.html",
     "pro": "parcel build src/index.html",
-    "predeploy":"npm run dev",
-    "deploy":"gh-pages -d dev"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "build": "parcel build"
   },
   "author": "lizeth castillo",
   "license": "ISC",
