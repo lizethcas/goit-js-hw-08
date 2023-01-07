@@ -10,7 +10,7 @@
 100C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\node_modules\@parcel\optimizer-svgo133175850815067209 1
 103C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\node_modules\lodash\matchesProperty.js133175859927705818 0
 152C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\main.js133175850831528120 0
-69C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\dist133175861068463136 1
+69C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\dist133175871725922916 1
 99C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\node_modules\.bin\browserslist.cmd133175850867785997 0
 87C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\node_modules\is-number133175850814361565 1
 104C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\node_modules\yaml\browser\dist\index.js133175850817510792 0
@@ -65,7 +65,7 @@
 116C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\node_modules\yaml\browser\dist\warnings-df54cb69.js133175850830988716 0
 95C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\node_modules\lodash\zipWith.js133175859939010440 0
 124C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\node_modules\simplelightbox\dist\simple-lightbox.modules.js133175855384724740 0
-79C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\src\index.html133176020760000000 0
+79C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\src\index.html133175871458006894 0
 104C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\node_modules\weakmap-polyfill\README.md133175856200266460 0
 97C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\node_modules\lodash\_shortOut.js133175859917191778 0
 113C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\node_modules\csso\lib\replace\property\border.js133175850821140111 0
@@ -123,7 +123,7 @@
 119C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\node_modules\caniuse-lite\data\features\input-range.js133175850851809679 0
 88C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\src\css\03-feedback.css133176020760000000 0
 93C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\node_modules\lodash\mixin.js133175859928589336 0
-86C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\src\js\03-feedback.js133175861064523417 0
+86C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\src\js\03-feedback.js133175868211308623 0
 128C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\node_modules\caniuse-lite\data\features\internationalization.js133175850851969704 0
 99C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\node_modules\lodash\fp\padStart.js133175859929983379 0
 94C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\node_modules\tslib\tslib.d.ts133175850819237680 0
@@ -6019,4 +6019,4 @@
 98C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\dist\03-feedback.ba2d0753.css.map133175861068009774 0
 95C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\dist\goit-js-hw-08.59712999.js133175861068143182 0
 88C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\dist\index.101ee4ef.css133175861067339295 0
-80C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\dist\index.html133175861068323125 0
+80C:\Users\lizeth.d.castillo\Documents\GitHub\tareas\goit-js-hw-08\dist\index.html133175871725863083 0
