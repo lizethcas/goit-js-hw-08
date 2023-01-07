@@ -1,0 +1,25 @@
+{
+  "homepage": "https://github.com/lizethcas/goit-js-hw-08",
+  "name": "goit-js-hw-08",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "pro": "parcel build src/index.html",
+    "predeploy":"npm run dev",
+    "deploy":"gh-pages -d dev"
+  },
+  "author": "lizeth castillo",
+  "license": "ISC",
+  "dependencies": {
+    "@vimeo/player": "^2.18.0",
+    "lodash": "^4.17.21",
+    "parcel": "^2.8.2",
+    "simplelightbox": "^2.11.0",
+    "throttle": "^1.0.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
