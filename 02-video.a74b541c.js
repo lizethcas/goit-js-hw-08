@@ -535,7 +535,7 @@ function hmrAcceptRun(bundle, id) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 var _player = require("@vimeo/player");
 var _playerDefault = parcelHelpers.interopDefault(_player);
-var _storageJs = require("./storage.js.js");
+var _storageJs = require("./storage.js");
 const _ = require("b106dac54effb741");
 const iframe = document.querySelector("#vimeo-player");
 const key = "videoplayer-current-time";
